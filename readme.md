@@ -1,4 +1,4 @@
 # My Master Readme File
 
-This text will go in the first commit on master
+This text will go into the first commit on master.
 
