@@ -2,4 +2,4 @@
 
 Useful for testing git techniques.
 
-I make a small change.
+I make a small change. Another change.
