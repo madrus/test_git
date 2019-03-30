@@ -3,3 +3,5 @@
 This text will go into the first commit on master.
 
 Some new text. Before autosquashing. Continue. Another change some time later. And another one.
+
+Changed master after stash on app-refactoring.
